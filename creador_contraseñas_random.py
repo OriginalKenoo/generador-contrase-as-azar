@@ -1,3 +1,6 @@
+> [!NOTE]
+> Un programa pequeño, es la primera vez que subo un codigo aquí en github
+
 import random # importamos random
 
 def generador_contraseña(cantidadNum, cantidadCarac, cantidadEspecial):
